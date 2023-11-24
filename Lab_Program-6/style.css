@@ -1,0 +1,14 @@
+h1,h2{
+    color:rgb(235, 5, 5);
+}
+body
+{
+   background-image:linear-gradient(rgb(37, 232, 37),yellow);
+}
+.submit-button {
+    background-color: rgb(76, 76, 240);
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    cursor: pointer;
+}
